@@ -4,3 +4,6 @@
 [submodule "Visual Perception for Self-Driving Cars/Environmental-Perception-Stack-for-a-Self-Driving-Car"]
 	path = Visual Perception for Self-Driving Cars/Environmental-Perception-Stack-for-a-Self-Driving-Car
 	url = https://github.com/ahmedadamji/Environmental-Perception-Stack-for-a-Self-Driving-Car
+[submodule "State Estimation and Localization for Self-Driving Cars/Vehicle-Trajectory-Estimation-using-Error-State-Extended-Kalman-Filter"]
+	path = State Estimation and Localization for Self-Driving Cars/Vehicle-Trajectory-Estimation-using-Error-State-Extended-Kalman-Filter
+	url = https://github.com/ahmedadamji/Vehicle-Trajectory-Estimation-using-Error-State-Extended-Kalman-Filter
