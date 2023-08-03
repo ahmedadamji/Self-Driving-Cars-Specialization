@@ -1,3 +1,6 @@
 [submodule "Introduction to Self-Driving Cars/Autonomous-Vehicle-Controller-Design-and-Simulations-with-Carla"]
 	path = Introduction to Self-Driving Cars/Autonomous-Vehicle-Controller-Design-and-Simulations-with-Carla
 	url = https://github.com/ahmedadamji/Autonomous-Vehicle-Controller-Design-and-Simulations-with-Carla
+[submodule "Visual Perception for Self-Driving Cars/Environmental-Perception-Stack-for-a-Self-Driving-Car"]
+	path = Visual Perception for Self-Driving Cars/Environmental-Perception-Stack-for-a-Self-Driving-Car
+	url = https://github.com/ahmedadamji/Environmental-Perception-Stack-for-a-Self-Driving-Car
