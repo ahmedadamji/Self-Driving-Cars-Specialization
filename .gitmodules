@@ -7,3 +7,6 @@
 [submodule "State Estimation and Localization for Self-Driving Cars/Vehicle-Trajectory-Estimation-using-Error-State-Extended-Kalman-Filter"]
 	path = State Estimation and Localization for Self-Driving Cars/Vehicle-Trajectory-Estimation-using-Error-State-Extended-Kalman-Filter
 	url = https://github.com/ahmedadamji/Vehicle-Trajectory-Estimation-using-Error-State-Extended-Kalman-Filter
+[submodule "Motion Planning for Self-Driving Cars/Motion-Planner-for-an-Autonomous-Vehicle"]
+	path = Motion Planning for Self-Driving Cars/Motion-Planner-for-an-Autonomous-Vehicle
+	url = https://github.com/ahmedadamji/Motion-Planner-for-an-Autonomous-Vehicle
